@@ -14,7 +14,7 @@ class FSA:
         arc = f"{start_state} {end_state} {input_symbol} {weight}"
         self.arcs.append(arc)
 
-    def get_fst_string(self):
+    def compile(self):
         last_start_state = self.arcs[-1].split()[0]
         final_start_state = int(last_start_state) + 1
         final_end_state = final_start_state + 1
@@ -58,7 +58,7 @@ def get_modified_fsa(tokens, start_word_indexes, T=0.):
                         
             fsa.add_arc(idx, idx+1, token, round(np.log(T)))
 
-    sorted_fsa = fsa.get_fst_string()
+    sorted_fsa = fsa.compile()
 
     return sorted_fsa
 
