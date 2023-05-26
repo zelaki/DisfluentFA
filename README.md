@@ -1,11 +1,11 @@
 ## WFSA
 #### Code for: Weakly-supervised forced alignment of disfluent speech using phoneme-level modeling
 
-<img  src="local/modified_fsa.png"
+<img src="local/modified_fsa.png" 
+     width="450" 
+     height="100" />
 
-width="450"
 
-height="100"  />
 
 ### Intro
 The study of speech disorders can benefit greatly from
