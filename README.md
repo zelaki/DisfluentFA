@@ -4,4 +4,4 @@
 
   <img src="local/modified_fsa.png" 
      width="100" 
-     height="200" />
+     height="600" />
