@@ -1,9 +1,11 @@
-## WFSA
+## WFSA 
 #### Code for: Weakly-supervised forced alignment of disfluent speech using phoneme-level modeling
 
-<img src="local/modified_fsa.png" 
-     width="450" 
-     height="100" />
+## Project Status
+This repository is currently under development and is a work in progress. Contributions and feedback are welcome!
+
+
+
 
 
 
@@ -20,9 +22,15 @@ disfluencies for forced alignment. During the graph construc-
 tion, we allow the modeling of common speech disfluencies,
 i.e. repetitions and omissions. 
 
+<img src="local/modified_fsa.png" 
+     width="450" 
+     height="150" />
+
+
+
 ### Contents
-	- Code for weakly-supervised forced alignment of disfluent speech. The models and code for the frame classification model are based on [Charsiu](https://github.com/lingjzhu/charsiu)
-	- Code for the construction of **DisfluenTIMIT**, a corrupted version of the TIMIT test set with synthesized disfluencies
+- Code for weakly-supervised forced alignment of disfluent speech. The models and code for the frame classification model are based on [Charsiu](https://github.com/lingjzhu/charsiu)
+- Code for the construction of **DisfluenTIMIT**, a corrupted version of the TIMIT test set with synthesized disfluencies
 	
 ### Usage
 ```
