@@ -2,8 +2,6 @@
 
 
 
-<img
-  src="local/modified_fsa.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+  <img src="local/modified_fsa.png" 
+     width="100" 
+     height="200" />
