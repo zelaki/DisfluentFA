@@ -3,5 +3,5 @@
 
 
   <img src="local/modified_fsa.png" 
-     width="100" 
-     height="600" />
+     width="300" 
+     height="100" />
