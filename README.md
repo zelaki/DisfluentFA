@@ -1,6 +1,6 @@
 ## WFSA 
-#### Code for: Weakly-supervised forced alignment of disfluent speech using phoneme-level modeling
-
+#### Code for: [Weakly-supervised forced alignment of disfluent speech using phoneme-level modeling](https://www.isca-speech.org/archive/pdfs/interspeech_2023/kouzelis23_interspeech.pdf)
+Presented at ISCA Interspeech 2023.
 ## Project Status
 This repository is currently under development and is a work in progress. Contributions and feedback are welcome!
 
